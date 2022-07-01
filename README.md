@@ -22,7 +22,7 @@
 
 ### 🏆 Github Status
 
-![](https://raw.githubusercontent.com/Teeoo/Teeoo/d262eabc34e510cfe82139f56b672f5ae7826738/github-contribution-grid-snake.svg)
+![contribution](https://github.com/teeoo/teeoo/blob/output/github-contribution-grid-snake.svg)
 
 ### 💬 End
 
@@ -35,4 +35,3 @@
 > **知乎:** [https://www.zhihu.com/people/luck_o](https://www.zhihu.com/people/luck_o)
 
 
-![contribution](https://github.com/teeoo/teeoo/blob/output/github-contribution-grid-snake.svg)
