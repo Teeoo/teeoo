@@ -22,6 +22,8 @@
 
 ### 🏆 Github Status
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![contribution](https://github.com/teeoo/teeoo/blob/output/github-contribution-grid-snake.svg)
 
 ### 💬 End
