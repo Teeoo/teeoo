@@ -23,6 +23,82 @@
 ### 🏆 Github Status
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 102 Contributions in the Year 2022
+ > 
+> 📦 33.4 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+🌆 Daytime    131 commits    ███████████████░░░░░░░░░░   62.98% 
+🌃 Evening    45 commits     █████░░░░░░░░░░░░░░░░░░░░   21.63% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.13% 
+Tuesday      43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.67% 
+Wednesday    39 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Thursday     29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
+Friday       33 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
+Saturday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Vue** 
+
+```text
+Vue                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Go                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Teeoo/Teeoo/main/charts/bar_graph.png) 
+
+
+ Last Updated on 01/07/2022 09:54:49 UTC
 <!--END_SECTION:waka-->
 ![contribution](https://github.com/teeoo/teeoo/blob/output/github-contribution-grid-snake.svg)
 
