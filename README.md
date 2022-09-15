@@ -39,6 +39,48 @@
  > 
 > 🔑 2 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
+🌆 Daytime    132 commits    ███████████████░░░░░░░░░░   63.16% 
+🌃 Evening    45 commits     █████░░░░░░░░░░░░░░░░░░░░   21.53% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Tuesday      43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.57% 
+Wednesday    39 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.66% 
+Thursday     28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
+Friday       35 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
+Saturday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
+Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.22%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Vue** 
 
 ```text
@@ -56,7 +98,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Teeoo/Teeoo/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 18:49:54 UTC
+ Last Updated on 15/09/2022 18:49:48 UTC
 <!--END_SECTION:waka-->
 ![contribution](https://github.com/teeoo/teeoo/blob/output/github-contribution-grid-snake.svg)
 
