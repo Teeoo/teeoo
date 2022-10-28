@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -98,7 +98,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Teeoo/Teeoo/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2022 18:51:17 UTC
+ Last Updated on 28/10/2022 18:46:50 UTC
 <!--END_SECTION:waka-->
 ![contribution](https://github.com/teeoo/teeoo/blob/output/github-contribution-grid-snake.svg)
 
