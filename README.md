@@ -11,7 +11,8 @@
 - 年龄:90后
 - 对了,我最近养了只边牧叫`十七`
 
-![EF1D57C2-C446-453D-BB91-440197460EA2_1_201_a.jpeg](https://i.loli.net/2021/08/17/CW4J9Hf5tDAIgmk.jpg)
+![42518D8B-56AE-4D50-A902-1258EF838A35_1_105_c](https://user-images.githubusercontent.com/25023667/228742537-c8cc26fd-98af-4d91-843c-e2a8afbc6314.jpeg)
+
 
 ### 💻 Hobbies
 
